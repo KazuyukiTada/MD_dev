@@ -1,0 +1,744 @@
+Åy2015/07/09 17:27:23Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:27:25Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 59
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:27:25Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:27:25Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 60
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:27:57Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:28:00Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 61
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:39:03Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:39:05Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 63
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:39:29Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10301
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:39:05Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 3
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;inputAudio=SDI (G1 P1)
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 64
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;inputAudio=SDI (G1 P1)
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Input audio silent
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:39:30Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:39:05Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 65
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:41:01Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2000
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:41:03Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 66
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding start requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:41:02Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:41:03Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 67
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:42:01Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10301
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:42:03Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 3
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;inputAudio=SDI (G1 P1)
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 68
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;inputAudio=SDI (G1 P1)
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Input audio silent
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:42:03Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:42:05Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 69
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:42:04Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10301
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:42:05Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 3
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;inputAudio=SDI (G1 P1)
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 70
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;inputAudio=SDI (G1 P1)
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Input audio silent
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:42:05Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:42:05Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 71
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:42:25Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2000
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:42:27Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 72
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding start requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:42:26Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:42:27Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 73
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Exception ÉuÉçÉbÉNëÄçÏÇÕ WSACancelBlockingCall ÇÃåƒÇ—èoÇµÇ…äÑÇËçûÇ‹ÇÍÇ‹ÇµÇΩÅB
+Åy2015/07/09 17:44:16Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:44:18Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 75
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:44:18Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10301
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:44:18Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 3
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;inputAudio=SDI (G1 P1)
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 76
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;inputAudio=SDI (G1 P1)
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Input audio silent
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:44:19Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:44:18Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 77
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Exception ÉuÉçÉbÉNëÄçÏÇÕ WSACancelBlockingCall ÇÃåƒÇ—èoÇµÇ…äÑÇËçûÇ‹ÇÍÇ‹ÇµÇΩÅB
+Åy2015/07/09 17:53:40Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2000
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:53:42Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 78
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding start requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:53:41Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:53:42Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 79
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:54:10Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:54:12Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 80
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 17:54:11Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T08:54:12Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 81
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Exception ÉuÉçÉbÉNëÄçÏÇÕ WSACancelBlockingCall ÇÃåƒÇ—èoÇµÇ…äÑÇËçûÇ‹ÇÍÇ‹ÇµÇΩÅB
+Åy2015/07/09 18:07:04Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2000
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:07:06Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 82
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding start requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:07:05Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:07:06Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 83
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:07:29Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:07:31Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 84
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:07:30Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:07:31Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 85
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:08:10Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2000
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:08:12Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 86
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding start requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:08:11Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:08:12Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 87
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:08:20Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:08:22Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 88
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:08:41Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:08:22Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 89
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:12:03Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2000
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:12:05Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 90
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding start requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:12:04Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:12:05Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 91
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:12:09Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:12:11Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 92
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:12:11Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:12:12Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 93
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Exception ÉuÉçÉbÉNëÄçÏÇÕ WSACancelBlockingCall ÇÃåƒÇ—èoÇµÇ…äÑÇËçûÇ‹ÇÍÇ‹ÇµÇΩÅB
+Åy2015/07/09 18:13:28Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2000
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:13:30Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 94
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding start requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:13:29Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:13:30Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 95
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:13:34Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:13:36Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 96
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:13:35Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:13:36Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 97
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Exception ÉuÉçÉbÉNëÄçÏÇÕ WSACancelBlockingCall ÇÃåƒÇ—èoÇµÇ…äÑÇËçûÇ‹ÇÍÇ‹ÇµÇΩÅB
+Åy2015/07/09 18:34:35Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2000
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:34:37Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 98
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding start requested
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:34:36Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 1
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:34:37Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 99
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:34:42Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 0
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 10085
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:34:44Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: Can not connect - connection reset by peer (OS) - service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 100
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1;outputNetwork=1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Smooth streaming push connection lost (primary server)
+** End of SNMP Version 2 TRAP data.
+
+
+Åy2015/07/09 18:34:43Åz********************************************
+** SNMP Version 2 TRAP received from 192.168.100.95:55780:
+*** Community: public
+*** VarBind count: 10
+*** VarBind content:
+**** 1.3.6.1.4.1.10613.1.6.1.1.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.2.0 OctetString: 3
+**** 1.3.6.1.4.1.10613.1.6.1.3.0 Gauge32: 2
+**** 1.3.6.1.4.1.10613.1.6.1.4.0 Gauge32: 2002
+**** 1.3.6.1.4.1.10613.1.6.1.5.0 OctetString: 2015-07-09T09:34:44Z
+**** 1.3.6.1.4.1.10613.1.6.1.6.0 Gauge32: 4
+**** 1.3.6.1.4.1.10613.1.6.1.7.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.8.0 Gauge32: 101
+**** 1.3.6.1.4.1.10613.1.6.1.9.0 OctetString: service=SS-TEST;profile=Profile 1-1
+**** 1.3.6.1.4.1.10613.1.6.1.10.0 OctetString: Encoding stop requested
+** End of SNMP Version 2 TRAP data.
+
+
+Exception ÉuÉçÉbÉNëÄçÏÇÕ WSACancelBlockingCall ÇÃåƒÇ—èoÇµÇ…äÑÇËçûÇ‹ÇÍÇ‹ÇµÇΩÅB
